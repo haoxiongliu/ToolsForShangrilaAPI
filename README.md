@@ -4,6 +4,6 @@
 
 用法：python acquire_followers.py
 
-文件夹下应有一Metadata.csv文件，一列为account，一列为title，需要jq支持
+文件夹下应有一Metadata.csv文件，一列为account，一列为title
 
 生成yy-mm-dd_H-M-S.png
